@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: 
-
-Host: https://reports.milkboxsites.com/
-Sitemap: https://reports.milkboxsites.com/sitemap.xml
